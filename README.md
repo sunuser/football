@@ -20,6 +20,14 @@ You can either install the code from github (newest version) or from pypi (stabl
   libsdl2-image-dev libsdl2-ttf-dev libsdl2-gfx-dev libboost-all-dev
   libdirectfb-dev libst-dev mesa-utils xvfb x11vnc libsqlite3-dev
   glee-dev libsdl-sge-dev python3-pip`
+  
+  
+http://mirrors.kernel.org/ubuntu/pool/universe/g/glee/libglee0d1_5.4.0-2_amd64.deb
+http://mirrors.kernel.org/ubuntu/pool/universe/g/glee/glee-dev_5.4.0-2_amd64.deb
+apt install ./libglee0d1_5.4.0-2_amd64.deb
+apt install ./glee-dev_5.4.0-2_amd64.deb
+  
+  
 
   1. Install gfootball python package from pypi:
 
